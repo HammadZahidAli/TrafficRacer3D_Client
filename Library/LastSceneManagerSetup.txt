@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Traffic Racing complete kit/Scenes/Village.unity
+  isLoaded: 1
+  isActive: 1

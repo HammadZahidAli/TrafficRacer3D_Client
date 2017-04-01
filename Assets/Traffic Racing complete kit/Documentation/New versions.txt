@@ -1,0 +1,20 @@
+Version 1.1:
+
+- Scene management 
+- Bigger vehicles like trucks & buses switch line
+
+Version 1.2:
+
+- Car boost
+- Car & boost sounds
+- Improved car spawner
+- Car rotates when switching line (click/touch controls)
+
+Version 1.3:
+
+- Simple keyboard controls (in each scene, open the game manager, check 'Keyboard' and type in the keys)
+- Simple vibration effect on collision (can be disabled on the cars. Automatically disabled when using keyboard)
+
+Version 1.4:
+
+- Cars can drive in two directions (please see the documentation)
